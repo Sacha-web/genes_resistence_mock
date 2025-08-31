@@ -42,3 +42,4 @@ Sacha Gonzaga – Em transição de carreira para a área de dados com interesse
 ---
 
 Este é um projeto educacional com fins exploratórios. Para dados reais, acesse [https://card.mcmaster.ca](https://card.mcmaster.ca).
+# genes_resistence_mock
