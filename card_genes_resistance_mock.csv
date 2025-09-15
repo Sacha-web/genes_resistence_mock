@@ -1,0 +1,5 @@
+ARO Accession,ARO Name,Drug Class,Resistance Mechanism,Protein Accession
+ARO:3000001,TEM-1,beta-lactam,Antibiotic inactivation,WP_000123456.1
+ARO:3000002,NDM-1,carbapenem,Metallo-beta-lactamase,WP_000654321.1
+ARO:3000003,AAC(6')-Ib,aminoglycoside,Acetyltransferase,WP_000789012.1
+ARO:3000004,MCR-1,polymyxin,Phosphoethanolamine transferase,WP_000345678.1
